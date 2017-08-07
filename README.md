@@ -11,8 +11,8 @@
 
 演示
 ==============
-![新日间Demo演示](https://github.com/lixiang1994/LEETheme/blob/master/Resources/微博日间.gif)
-![新夜间Demo演示](https://github.com/lixiang1994/LEETheme/blob/master/Resources/微博夜间.gif)
+![新日间Demo演示](http://og1yl0w9z.bkt.clouddn.com/17-8-7/55772694.jpg)
+![新夜间Demo演示](http://og1yl0w9z.bkt.clouddn.com/17-8-7/50217960.jpg)
 
 
 特性
